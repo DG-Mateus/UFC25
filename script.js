@@ -5,7 +5,7 @@ const PLANILHA_ITENS = 'https://docs.google.com/spreadsheets/d/e/2PACX-1vSKb_aTn
 
 // Estados dos dados
 let estabelecimento = {
-    nome: "Carregando...",
+    nome: "Carregando..",
     descricao: "",
     telefone: "",
     endereco: "",
